@@ -1,0 +1,3 @@
+[submodule "EMB_fremework"]
+	path = EMB_fremework
+	url = https://github.com/shifthyperloop/EMB_fremework
